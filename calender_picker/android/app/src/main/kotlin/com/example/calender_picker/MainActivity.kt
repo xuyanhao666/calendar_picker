@@ -1,4 +1,4 @@
-package com.example.calender_date_picker
+package com.example.calender_picker
 
 import android.os.Bundle
 

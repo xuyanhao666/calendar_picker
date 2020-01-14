@@ -1,4 +1,4 @@
-# calender_date_picker
+# calender_picker
 
 A new Flutter project.
 
